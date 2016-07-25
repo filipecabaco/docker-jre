@@ -1,4 +1,4 @@
 # docker-jre
-Simple Docker with JRE-8
+Simple Docker with JRE
 
-A really simple JRE-8 Docker image using Alpine:3.4
+A really simple JRE Docker image using Alpine:3.4
